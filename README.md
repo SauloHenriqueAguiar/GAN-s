@@ -1,7 +1,7 @@
 # GANs
 generative adversarial network (GAN)
 
-Exemplo do Coloração de Imagens:
+Exemplo do Coloração de Imagens e Vídeos:
 
 Luiz Gonzaga 
 
@@ -32,5 +32,9 @@ https://user-images.githubusercontent.com/78816148/146383072-23c247c3-abef-458b-
 
 
 Lampiao 1920
-https://user-images.githubusercontent.com/78816148/146383355-553ad706-a3ce-434a-8078-cf2f6795485b.mp4
+
+
+https://user-images.githubusercontent.com/78816148/146383743-03c9388c-87db-477d-8174-0ab8b4f065c5.mp4
+
+
 
